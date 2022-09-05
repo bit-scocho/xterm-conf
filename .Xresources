@@ -38,7 +38,8 @@ xterm*color14:      #1999b3
 xterm*color7:       #8ca68c
 xterm*color15:      #f0fff0
 
-! Adjusting the font and sizes
+! Adjusting the font, sizes and other things
 xterm*faceName: Monospace Bold
 xterm*faceSize: 11
 xterm*geometry: 80x27
+xterm*cursorBlink: true
