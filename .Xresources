@@ -1,6 +1,9 @@
 
 ! Xterm Configuration :)
 
+! (Nota: No olvidar el "xrdb .Xresources" jajaja)
+
+
 ! special
 xterm*foreground:   #8ca68c
 xterm*background:   #131513
